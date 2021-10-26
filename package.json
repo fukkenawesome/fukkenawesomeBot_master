@@ -33,7 +33,7 @@
     "express": "^4.16.2",
     "jquery": "^3.5.1",
     "jquery-contextmenu": "^2.6.3",
-    "jquery-ui": "^1.12.1",
+    "jquery-ui": "^1.13.0",
     "nedb": "^1.8.0",
     "obs-websocket-js": "^4.0.2",
     "opn": "^5.1.0",
